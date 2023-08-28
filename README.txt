@@ -1,3 +1,9 @@
+Install cypress: 
+npm init -y
+npm install cypress@12.17.4
+
+If need to configure: select e2e, press NEXT as many times as needed, and select ELECTRON browser
+
 To run/open the tests, there are multiple terminal command options:
 
 1. Run headless and see terminal logs: 
