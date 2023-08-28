@@ -1,7 +1,7 @@
 Install cypress: 
 npm init -y
-npx cypress install
 npm install cypress@12.17.4
+npx cypress install
 
 If need to configure: select e2e, press NEXT as many times as needed, and select ELECTRON browser
 
